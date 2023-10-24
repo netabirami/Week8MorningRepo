@@ -1,0 +1,14 @@
+Title: Sample Data
+Author: John Doe
+Date: 2023-06-15
+
+This is some sample text data.
+It can contain multiple lines.
+The content of this file can vary.
+
+1. Here is a numbered list.
+2. You can have multiple sections.
+3. Each line can contain different information.
+4. It might be log entries, records, or text documents.
+
+End of the sample data file.
